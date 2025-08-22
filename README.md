@@ -36,3 +36,7 @@ This internship project helped me gain hands-on experience in:
 ---
 
 ✨ *Feel free to explore the dashboard and dataset to gain more insights!*  
+## 📷 Dashboard Preview
+Check out the live dashboard preview on my [LinkedIn post](https://www.linkedin.com/posts/dhrumilsutharcs2026_sales-profit-dashboard-summer-internship-activity-7364575116803891201-yp6K?utm_source=share&utm_medium=member_android&rcm=ACoAAEayk3IBzFxcVEg5evQXptQrL8kf4UGt2L4).
+
+
